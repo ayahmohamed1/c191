@@ -97,7 +97,7 @@ export const INVITATION_DATA = {
     address: "",
     addressAr: "",
     // رابط خريطة Google Maps المرسل من المستخدم
-    googleMapsUrl: "https://maps.app.goo.gl/d8TaTrtywNgTbBxX9?g_st=ic",
+    googleMapsUrl: "https://maps.app.goo.gl/ekVGxxoVgWndd1LcA?g_st=ic",
     // يتم عرض اللوكيشن فقط من زر Google Maps
     mapEmbedIframe: ""
   },
