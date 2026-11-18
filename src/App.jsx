@@ -426,7 +426,7 @@ export default function App() {
               <h4 className="dresscode-title">{INVITATION_DATA.dressCode?.title || "DRESS CODE"}</h4>
               <p className="dresscode-subtitle">{INVITATION_DATA.dressCode?.subtitle || "WE WOULD LOVE TO SEE YOU IN SHADES OF:"}</p>
 
-              <div className="dresscode-swatches">
+              <div className="dresscode-swatches" dir="ltr">
                 {INVITATION_DATA.dressCode?.colors.map(color => (
                   <div key={color.id} className="dresscode-swatch-item">
                     <div 
