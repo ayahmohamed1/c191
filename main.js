@@ -6,8 +6,8 @@
 const defaultState = {
   groomName: 'أحمد عبد الرحمن',
   brideName: 'مريم الشريف',
-  eventDateTime: getFutureDate(25), // 25 days ahead
-  dateArabic: 'الجمعة، ١٥ نوفمبر ٢٠٢٦',
+  eventDateTime: '2026-12-04T19:00',
+  dateArabic: 'الجمعة، ٤ ديسمبر ٢٠٢٦',
   timeText: 'الساعة ٧:٠٠ مساءً',
   hallName: 'قاعة رويال لوتس الكبرى',
   hallHotel: 'فندق النيل ريتز كارلتون',

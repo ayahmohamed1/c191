@@ -80,13 +80,13 @@ export const INVITATION_DATA = {
   schedule: {
     headingEn: "THE ENGAGEMENT PARTY WILL TAKE PLACE AT:",
     timeDisplay: "4:00 PM",
-    dateDayName: "MONDAY",
-    dateDayNameAr: "الإثنين",
-    dateDayNumber: "30",
-    dateMonthYear: "NOVEMBER 2026",
-    dateMonthYearAr: "نوفمبر ٢٠٢٦",
-    // تاريخ ووقت الحفل لحساب العد التنازلي: 30 نوفمبر 2026 الساعة 4:00 عصراً
-    targetDateTime: "2026-11-30T16:00:00"
+    dateDayName: "FRIDAY",
+    dateDayNameAr: "الجمعة",
+    dateDayNumber: "4",
+    dateMonthYear: "DECEMBER 2026",
+    dateMonthYearAr: "ديسمبر ٢٠٢٦",
+    // تاريخ ووقت الحفل لحساب العد التنازلي: 4 ديسمبر 2026 الساعة 4:00 عصراً
+    targetDateTime: "2026-12-04T16:00:00"
   },
 
   // تفاصيل المكان وخريطة Google Maps
